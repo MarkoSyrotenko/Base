@@ -18,10 +18,10 @@ public:
 	}
 	void print()
 	{
-		cout << "people on base: " << people_on_base;
-		cout << "\nvehicles on base: " << vehicles_on_base;
-		cout << "\npetrol on base: " << petrol_on_base;
-		cout << "\ngoods on base: " << goods_on_base << endl << endl;
+		cout << "People on base: " << people_on_base;
+		cout << "\nVehicles on base: " << vehicles_on_base;
+		cout << "\nPetrol on base: " << petrol_on_base;
+		cout << "\nGoods on base: " << goods_on_base << endl << endl;
 	}
 
 
